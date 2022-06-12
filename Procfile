@@ -1,1 +1,1 @@
-web: voila --port= --Voila.ip=0.0.0.0 --no-browser quadratic-app.ipynb
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser quadratic-app.ipynb
